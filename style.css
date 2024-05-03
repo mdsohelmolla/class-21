@@ -1,0 +1,19 @@
+.hedder a{
+    color: blue;
+    font-weight: 700;
+}
+.carousel-item img{
+    height: 300px;
+}
+.taem img{
+    height: 300px;
+    margin: auto;
+    text-align: right;
+}
+.team-content{
+    width: 700px;
+    margin: auto;
+}
+.team-content samp{
+    color: darkgreen;
+}
