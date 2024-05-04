@@ -1,9 +1,9 @@
-.hedder a{
+.hedder {
     color: blue;
     font-weight: 700;
 }
 .carousel-item img{
-    height: 300px;
+    height: 500px;
 }
 .taem img{
     height: 300px;
@@ -16,4 +16,17 @@
 }
 .team-content samp{
     color: darkgreen;
+}
+.card h2{
+    text-align: center;
+    color: green;
+    margin: 20px 0px;
+}
+
+.last{
+    height: 80px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 70px;
 }
